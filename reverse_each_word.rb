@@ -1,1 +1,1 @@
-pp sentence1
+pp :sentence1
