@@ -1,3 +1,3 @@
 def reverse_each_word (sentence1)
-  pp sentence1
+  print sentence1
 end
